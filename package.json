@@ -1,5 +1,5 @@
 {
-  "name": "thejump-material-ui",
+  "name": "@material-ui/core",
   "version": "4.9.12",
   "private": true,
   "scripts": {
